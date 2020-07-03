@@ -1,0 +1,39 @@
+	body {
+	
+	font-family: Verdana, sans-serif;
+	font-size: 30px; 
+	margin: 0;
+	
+    }
+
+
+    .in-box {
+	
+	background-color: #7ce47c;
+	font-family: Verdana, sans-serif;
+	font-size: 35px;
+	
+	color: #fafffa;
+    	
+    }
+
+
+
+    p {
+        
+    font-weight: 800;
+    margin: 0;
+    
+    }
+	
+	
+	
+	#footer {
+		
+	position: absolute;
+    bottom: 0;
+	font-weight: 200;
+	background-color: #7ce47c;
+	width: 100%;
+	
+	}
